@@ -1,8 +1,10 @@
 <?php
 
 /*
-
-*/
+ * 文章处理
+ * User: giant
+ * Date: 2018-4-3
+ */
 require_once __DIR__.'/code.php';
 
 class Article
