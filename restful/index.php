@@ -1,4 +1,9 @@
 <?php
+/*
+ * Restful-API 统一处理入口 
+ * User: Giant
+ * Date: 2018-4-3
+ */
 
 require_once __DIR__.'/../lib/user.php';
 require_once __DIR__.'/../lib/article.php';
